@@ -1,0 +1,246 @@
+\begin{thebibliography}{10}
+
+\bibitem{fukushima1980neocognitron}
+K.~Fukushima,
+\newblock ``Neocognitron: A self-organizing neural network model for a
+  mechanism of pattern recognition unaffected by shift in position,''
+\newblock {\em Biological cybernetics}, vol. 36, no. 4, pp. 193--202, 1980.
+
+\bibitem{lecun1989backpropagation}
+Y.~LeCun et~al.,
+\newblock ``Backpropagation applied to handwritten zip code recognition,''
+\newblock {\em Neural computation}, vol. 1, no. 4, pp. 541--551, 1989.
+
+\bibitem{lecun1998gradient}
+Y.~LeCun, L.~Bottou, Y.~Bengio, and P.~Haffner,
+\newblock ``Gradient-based learning applied to document recognition,''
+\newblock {\em Proceedings of the IEEE}, vol. 86, no. 11, pp. 2278--2324, 1998.
+
+\bibitem{krizhevsky2012imagenet}
+A.~Krizhevsky, I.~Sutskever, and G.~E. Hinton,
+\newblock ``{ImageNet} classification with deep convolutional neural
+  networks,''
+\newblock in {\em Advances in Neural Information Processing Systems}, 2012, pp.
+  1097--1105.
+
+\bibitem{ILSVRC15}
+O.~Russakovsky et~al.,
+\newblock ``{ImageNet Large Scale Visual Recognition Challenge},''
+\newblock {\em arXiv preprint arXiv:1409.0575}, 2014.
+
+\bibitem{ciresan2012traffic}
+D.~Cire{\c{s}}an, U.~Meier, J.~Masci, and J.~Schmidhuber,
+\newblock ``Multi-column deep neural network for traffic sign classification,''
+\newblock {\em Neural Networks}, vol. 32, pp. 333--338, 2012.
+
+\bibitem{goodfellow2013multi}
+I.~J. Goodfellow et~al.,
+\newblock ``Multi-digit number recognition from street view imagery using deep
+  convolutional neural networks,''
+\newblock {\em arXiv preprint arXiv:1312.6082}, 2013.
+
+\bibitem{sermanet2012convolutional}
+P.~Sermanet, S.~Chintala, and Y.~LeCun,
+\newblock ``Convolutional neural networks applied to house numbers digit
+  classification,''
+\newblock in {\em Proceedings of the 21st International Conference on Pattern
+  Recognition (ICPR)}. IEEE, 2012, pp. 3288--3291.
+
+\bibitem{ciresan2012multi}
+D.~Cire{\c{s}}an, U.~Meier, and J.~Schmidhuber,
+\newblock ``Multi-column deep neural networks for image classification,''
+\newblock in {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition (CVPR)}. IEEE, 2012, pp. 3642--3649.
+
+\bibitem{sermanet2013pedestrian}
+P.~Sermanet, K.~Kavukcuoglu, S.~Chintala, and Y.~LeCun,
+\newblock ``Pedestrian detection with unsupervised multi-stage feature
+  learning,''
+\newblock in {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition (CVPR)}. IEEE, 2013, pp. 3626--3633.
+
+\bibitem{ciresan2012deep}
+D.~Cire{\c{s}}an, A.~Giusti, L.~M. Gambardella, and J.~Schmidhuber,
+\newblock ``Deep neural networks segment neuronal membranes in electron
+  microscopy images,''
+\newblock in {\em Advances in Neural Information Processing Systems}, 2012, pp.
+  2843--2851.
+
+\bibitem{lee2009unsupervised}
+H.~Lee, P.~Pham, Y.~Largman, and A.~Y. Ng,
+\newblock ``Unsupervised feature learning for audio classification using
+  convolutional deep belief networks,''
+\newblock in {\em Advances in Neural Information Processing Systems}, 2009, pp.
+  1096--1104.
+
+\bibitem{deng2013deep}
+L.~Deng, O.~Abdel-Hamid, and D.~Yu,
+\newblock ``A deep convolutional neural network using heterogeneous pooling for
+  trading acoustic invariance with phonetic confusion,''
+\newblock in {\em Proceedings of the IEEE International Conference on
+  Acoustics, Speech and Signal Processing (ICASSP)}. IEEE, 2013, pp.
+  6669--6673.
+
+\bibitem{abdel2014convolutional}
+O.~Abdel-Hamid et~al.,
+\newblock ``Convolutional neural networks for speech recognition,''
+\newblock {\em IEEE/ACM Transactions on Audio, Speech and Language Processing
+  (TASLP)}, vol. 22, no. 10, pp. 1533--1545, 2014.
+
+\bibitem{sainath2013deep}
+T.~N. Sainath, A.~Mohamed, B.~Kingsbury, and B.~Ramabhadran,
+\newblock ``Deep convolutional neural networks for {LVCSR},''
+\newblock in {\em Proceedings of the IEEE International Conference on
+  Acoustics, Speech and Signal Processing (ICASSP)}. IEEE, 2013, pp.
+  8614--8618.
+
+\bibitem{abdel2012applying}
+O.~Abdel-Hamid, A.~Mohamed, H.~Jiang, and G.~Penn,
+\newblock ``Applying convolutional neural networks concepts to hybrid {NN-HMM}
+  model for speech recognition,''
+\newblock in {\em Proceedings of the IEEE International Conference on
+  Acoustics, Speech and Signal Processing (ICASSP)}. IEEE, 2012, pp.
+  4277--4280.
+
+\bibitem{abdel2013exploring}
+O.~Abdel-Hamid, L.~Deng, and D.~Yu,
+\newblock ``Exploring convolutional neural network structures and optimization
+  techniques for speech recognition,''
+\newblock in {\em Proceedings of INTERSPEECH}, 2013, pp. 3366--3370.
+
+\bibitem{deng2013recent}
+L.~Deng et~al.,
+\newblock ``Recent advances in deep learning for speech research at
+  {Microsoft},''
+\newblock in {\em Proceedings of the IEEE International Conference on
+  Acoustics, Speech and Signal Processing (ICASSP)}. IEEE, 2013, pp.
+  8604--8608.
+
+\bibitem{dieleman2011audio}
+S.~Dieleman, P.~Brakel, and B.~Schrauwen,
+\newblock ``Audio-based music classification with a pretrained convolutional
+  network,''
+\newblock in {\em Proceedings of the 12th International Society for Music
+  Information Retrieval (ISMIR) conference}, 2011, pp. 669--674.
+
+\bibitem{van2013deep}
+A.~Van~den Oord, S.~Dieleman, and B.~Schrauwen,
+\newblock ``Deep content-based music recommendation,''
+\newblock in {\em Advances in Neural Information Processing Systems}, 2013, pp.
+  2643--2651.
+
+\bibitem{bengio2015deeplearning}
+Y.~Bengio, I.~J. Goodfellow, and A.~Courville,
+\newblock {\em Deep Learning},
+\newblock 2015,
+\newblock Book in preparation for MIT Press.
+
+\bibitem{yu2015deeplearning}
+D.~Yu and L.~Deng,
+\newblock {\em Automatic Speech Recognition: A Deep Learning Approach},
+\newblock Springer, 2014.
+
+\bibitem{deng2014deep}
+L.~Deng and D.~Yu,
+\newblock {\em Deep Learning: Methods and Applications},
+\newblock {NOW Publishers}, 2014.
+
+\bibitem{barchiesi2015acoustic}
+D.~Barchiesi, D.~Giannoulis, D.~Stowell, and M.~D. Plumbley,
+\newblock ``Acoustic scene classification: Classifying environments from the
+  sounds they produce,''
+\newblock {\em Signal Processing Magazine}, vol. 32, no. 3, pp. 16--34, 2015.
+
+\bibitem{chachada2014environmental}
+S.~Chachada and C.-C.~J. Kuo,
+\newblock ``Environmental sound recognition: A survey,''
+\newblock {\em APSIPA Transactions on Signal and Information Processing}, vol.
+  3, pp. e14, 2014.
+
+\bibitem{asgari2014inferring}
+M.~Asgari, I.~Shafran, and A.~Bayestehtashk,
+\newblock ``Inferring social contexts from audio recordings using deep neural
+  networks,''
+\newblock in {\em Proceedings of the IEEE International Workshop on Machine
+  Learning for Signal Processing (MLSP)}. IEEE, 2014.
+
+\bibitem{kons2013audio}
+Z.~Kons and O.~Toledo-Ronen,
+\newblock ``Audio event classification using deep neural networks,''
+\newblock in {\em Proceedings of INTERSPEECH}, 2013, pp. 1482--1486.
+
+\bibitem{ravanelli2014audio}
+M.~Ravanelli, B.~Elizalde, K.~Ni, and G.~Friedland,
+\newblock ``Audio concept classification with hierarchical deep neural
+  networks,''
+\newblock in {\em Proceedings of the 22nd European Signal Processing Conference
+  (EUSIPCO)}. IEEE, 2014, pp. 606--610.
+
+\bibitem{gencoglu2014recognition}
+O.~Gencoglu, T.~Virtanen, and H.~Huttunen,
+\newblock ``Recognition of acoustic events using deep neural networks,''
+\newblock in {\em Proceedings of the 22nd European Signal Processing Conference
+  (EUSIPCO)}. IEEE, 2014, pp. 506--510.
+
+\bibitem{xue2015auditory}
+L.~Xue and F.~Su,
+\newblock ``Auditory scene classification with deep belief network,''
+\newblock in {\em MultiMedia Modeling}. Springer, 2015, pp. 348--359.
+
+\bibitem{glorot2011deep}
+X.~Glorot, A.~Bordes, and Y.~Bengio,
+\newblock ``Deep sparse rectifier neural networks,''
+\newblock in {\em Proceedings of the 14th International Conference on
+  Artificial Intelligence and Statistics. JMLR W\&CP}, 2011, vol.~15, pp.
+  315--323.
+
+\bibitem{maas2013rectifier}
+A.~L. Maas, A.~Y. Hannun, and A.~Y. Ng,
+\newblock ``Rectifier nonlinearities improve neural network acoustic models,''
+\newblock in {\em ICML Workshop on Deep Learning for Audio, Speech, and
+  Language Processing}, 2013.
+
+\bibitem{xu2015empirical}
+B.~Xu, N.~Wang, T.~Chen, and M.~Li,
+\newblock ``Empirical evaluation of rectified activations in convolutional
+  network,''
+\newblock {\em arXiv preprint arXiv:1505.00853}, 2015.
+
+\bibitem{hinton2012improving}
+G.~E. Hinton et~al.,
+\newblock ``Improving neural networks by preventing co-adaptation of feature
+  detectors,''
+\newblock {\em arXiv preprint arXiv:1207.0580}, 2012.
+
+\bibitem{salamon2014dataset}
+J.~Salamon, C.~Jacoby, and J.~P. Bello,
+\newblock ``A dataset and taxonomy for urban sound research,''
+\newblock in {\em Proceedings of the ACM International Conference on
+  Multimedia}. ACM, 2014, pp. 1041--1044.
+
+\bibitem{piczak2015esc}
+K.~J. Piczak,
+\newblock ``{ESC}: Dataset for environmental sound classification,''
+\newblock in {\em Proceedings of the ACM International Conference on
+  Multimedia}. ACM, 2015,
+\newblock in press.
+
+\bibitem{salamon2015unsupervised}
+J.~Salamon and J.~P. Bello,
+\newblock ``Unsupervised feature learning for urban sound classification,''
+\newblock in {\em Proceedings of the IEEE International Conference on
+  Acoustics, Speech and Signal Processing (ICASSP)}, 2015.
+
+\bibitem{pylearn2}
+I.~J. Goodfellow et~al.,
+\newblock ``Pylearn2: a machine learning research library,''
+\newblock {\em arXiv preprint arXiv:1308.4214}, 2013.
+
+\bibitem{bengio2013advances}
+Y.~Bengio, N.~Boulanger-Lewandowski, and R.~Pascanu,
+\newblock ``Advances in optimizing recurrent networks,''
+\newblock in {\em Proceedings of the IEEE International Conference on
+  Acoustics, Speech and Signal Processing (ICASSP)}. IEEE, 2013, pp.
+  8624--8628.
+
+\end{thebibliography}

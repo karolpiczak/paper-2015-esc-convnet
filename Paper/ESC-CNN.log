@@ -1,0 +1,519 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.5.20)  12 SEP 2015 10:13
+entering extended mode
+**ESC-CNN.tex
+("M:\Dropbox\2.RESEARCH\2015 - ESC-CNN - GitHub\ESC-CNN.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\base\size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\amsmath\amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\amsmath\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("M:\Dropbox\2.RESEARCH\2015 - ESC-CNN - GitHub\mlspconf.sty")
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\filecontents\filecontents.s
+ty
+Package: filecontents 2011/10/08 v1.3 Create an external file from within a LaT
+eX document
+) (M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\hyperref\hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\generic\oberdiek\hobsub-hyperref.
+sty
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\generic\oberdiek\hobsub-generic.s
+ty
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+) (M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+) (M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\oberdiek\auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen114
+\Hy@linkcounter=\count100
+\Hy@pagecounter=\count101
+
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\hyperref\pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count102
+
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\00miktex\hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `false' on input line 4319.
+Package hyperref Info: Option `draft' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks OFF on input line 4694.
+\c@Hy@tempcnt=\count103
+
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\url\url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen115
+\Fld@menulength=\count104
+\Field@Width=\dimen116
+\Fld@charsize=\dimen117
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count105
+\c@Item=\count106
+\c@Hfootnote=\count107
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\hyperref\hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count108
+\c@bookmark@seq@number=\count109
+
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\oberdiek\rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip46
+) (M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\enumitem\enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip47
+\enit@outerparindent=\dimen118
+\enit@toks=\toks20
+\enit@inbox=\box28
+\enitdp@description=\count110
+)
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\hyphenat\hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language69
+LaTeX Info: Redefining \_ on input line 43.
+)
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\generic\babel\babel.sty
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\00miktex\bblopts.cfg
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\generic\babel\english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\generic\babel\babel.def
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count111
+\U@D=\dimen119
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\footmisc\footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks21
+\footnotemargin=\dimen120
+\c@pp@next@reset=\count112
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+
+LaTeX Warning: Overwriting file `./ESC-CNN.bib'.
+
+
+("M:\Dropbox\2.RESEARCH\2015 - ESC-CNN - GitHub\ESC-CNN.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 376.
+LaTeX Font Info:    ... okay on input line 376.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 376.
+LaTeX Font Info:    ... okay on input line 376.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 376.
+LaTeX Font Info:    ... okay on input line 376.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 376.
+LaTeX Font Info:    ... okay on input line 376.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 376.
+LaTeX Font Info:    ... okay on input line 376.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 376.
+LaTeX Font Info:    ... okay on input line 376.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 376.
+LaTeX Font Info:    ... okay on input line 376.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 376.
+
+
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count113
+\scratchdimen=\dimen121
+\scratchbox=\box29
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen122
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
+\everyMPtoPDFconversion=\toks23
+)
+\AtBeginShipoutBox=\box30
+
+
+Package hyperref Warning: Draft mode on.
+
+Package hyperref Info: Link coloring OFF on input line 376.
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\hyperref\nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\generic\oberdiek\gettitlestring.s
+ty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count119
+)
+LaTeX Info: Redefining \ref on input line 376.
+LaTeX Info: Redefining \pageref on input line 376.
+LaTeX Info: Redefining \nameref on input line 376.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 378.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 385.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 389.
+ <Figures/ConvLayer.pdf, id=1, 240.9pt x 120.45pt>
+File: Figures/ConvLayer.pdf Graphic file (type pdf)
+
+<use Figures/ConvLayer.pdf>
+Package pdftex.def Info: Figures/ConvLayer.pdf used on input line 415.
+(pdftex.def)             Requested size: 240.0pt x 120.00307pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+
+Overfull \vbox (5.4559pt too high) has occurred while \output is active []
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 420.
+
+
+(M:\Dropbox\2.RESEARCH\TexPortable\MiKTeX\tex\latex\psnfss\omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 420.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[1{M:/Dropbox/2.RESEARCH/TexPortable/MiKTeX/pdftex/config/pdftex.map}
+
+
+
+ <M:/Dropbox/2.RESEARCH/2015 - ESC-CNN - GitHub/Figures/ConvLayer.pdf>]
+Underfull \hbox (badness 2591) in paragraph at lines 435--436
+\OT1/ptm/m/n/10 is that de-pend-ing on the state of the ran-dom weight
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 435--436
+\OT1/ptm/m/n/10 this rea-son, al-ter-na-tives with a non-zero slope such as
+ []
+
+[2]
+Overfull \hbox (0.55386pt too wide) in paragraph at lines 457--458
+[]\OT1/ptm/m/it/10 ESC-10 \OT1/ptm/m/n/10 is a less com-plex stan-dard-ized sub
+-set of 10 classes
+ []
+
+<Figures/Architecture.pdf, id=38, 240.9pt x 240.9pt>
+File: Figures/Architecture.pdf Graphic file (type pdf)
+
+<use Figures/Architecture.pdf>
+Package pdftex.def Info: Figures/Architecture.pdf used on input line 465.
+(pdftex.def)             Requested size: 240.0pt x 240.00616pt.
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 475.
+
+Underfull \hbox (badness 1558) in paragraph at lines 477--478
+[]\OT1/ptm/m/n/10 Log-scaled mel-spectrograms were ex-tracted from all
+ []
+
+<Figures/Filters.pdf, id=39, 377.3503pt x 182.48175pt>
+File: Figures/Filters.pdf Graphic file (type pdf)
+
+<use Figures/Filters.pdf>
+Package pdftex.def Info: Figures/Filters.pdf used on input line 488.
+(pdftex.def)             Requested size: 240.0pt x 116.06117pt.
+
+<Figures/Results.pdf, id=40, 778.4828pt x 309.12498pt>
+File: Figures/Results.pdf Graphic file (type pdf)
+
+<use Figures/Results.pdf>
+Package pdftex.def Info: Figures/Results.pdf used on input line 494.
+(pdftex.def)             Requested size: 504.0pt x 200.1317pt.
+ [3 <M:/Dropbox/2.RESEARCH/2015 - ESC-CNN - GitHub/Figures/Architecture.pdf> <M
+:/Dropbox/2.RESEARCH/2015 - ESC-CNN - GitHub/Figures/Filters.pdf>] <Figures/Con
+f.pdf, id=186, 356.52258pt x 353.52701pt>
+File: Figures/Conf.pdf Graphic file (type pdf)
+
+<use Figures/Conf.pdf>
+Package pdftex.def Info: Figures/Conf.pdf used on input line 517.
+(pdftex.def)             Requested size: 240.0pt x 237.98387pt.
+ [4 <M:/Dropbox/2.RESEARCH/2015 - ESC-CNN - GitHub/Figures/Results.pdf> <M:/Dro
+pbox/2.RESEARCH/2015 - ESC-CNN - GitHub/Figures/Conf.pdf
+
+pdfTeX warning: pdflatex (file M:/Dropbox/2.RESEARCH/2015 - ESC-CNN - GitHub/Fi
+gures/Conf.pdf): PDF inclusion: multiple pdfs with page group included in a sin
+gle page
+>] ("M:\Dropbox\2.RESEARCH\2015 - ESC-CNN - GitHub\ESC-CNN.bbl"
+Underfull \hbox (badness 1502) in paragraph at lines 15--18
+[]\OT1/ptm/m/n/10 Y. LeCun, L. Bot-tou, Y. Ben-gio, and P. Haffner,
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 27--30
+[]\OT1/ptm/m/n/10 O. Rus-sakovsky et al.,  ``Ima-geNet Large Scale
+ []
+
+
+Underfull \hbox (badness 5189) in paragraph at lines 27--30
+\OT1/ptm/m/n/10 Visual Recog-ni-tion Chal-lenge,''  \OT1/ptm/m/it/10 arXiv prep
+rint
+ []
+
+
+Underfull \hbox (badness 4492) in paragraph at lines 56--61
+[]\OT1/ptm/m/n/10 P. Ser-manet, K. Kavukcuoglu, S. Chin-tala, and
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 56--61
+\OT1/ptm/m/it/10 IEEE Con-fer-ence on Com-puter Vision and Pat-tern
+ []
+
+
+Underfull \hbox (badness 3354) in paragraph at lines 63--68
+[]\OT1/ptm/m/n/10 D. Cire[]an, A. Giusti, L. M. Gam-bardella, and
+ []
+
+[5]
+Underfull \hbox (badness 1881) in paragraph at lines 127--131
+\OT1/ptm/m/n/10 ``Deep content-based music rec-om-men-da-tion,''  in
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 557.
+ [6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 557.
+ ("M:\Dropbox\2.RESEARCH\2015 - ESC-CNN - GitHub\ESC-CNN.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 557.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 557.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 557.
+ ) 
+Here is how much of TeX's memory you used:
+ 6532 strings out of 493921
+ 96560 string characters out of 3149748
+ 186546 words of memory out of 3000000
+ 9738 multiletter control sequences out of 15000+200000
+ 27202 words of font info for 53 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 29i,9n,22p,1084b,472s stack positions out of 5000i,500n,10000p,200000b,50000s
+{M:/Dropbox/2.RESEARCH/TexPortable/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<M:
+/Dropbox/2.RESEARCH/TexPortable/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pf
+b><M:/Dropbox/2.RESEARCH/TexPortable/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><M:/Dropbox/2.RESEARCH/TexPortable/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb><M:/Dropbox/2.RESEARCH/TexPortable/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmsy6.pfb><M:/Dropbox/2.RESEARCH/TexPortable/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmsy9.pfb><M:/Dropbox/2.RESEARCH/TexPortable/MiKTeX/fonts/type1/urw/ti
+mes/utmb8a.pfb><M:/Dropbox/2.RESEARCH/TexPortable/MiKTeX/fonts/type1/urw/times/
+utmbi8a.pfb><M:/Dropbox/2.RESEARCH/TexPortable/MiKTeX/fonts/type1/urw/times/utm
+r8a.pfb><M:/Dropbox/2.RESEARCH/TexPortable/MiKTeX/fonts/type1/urw/times/utmri8a
+.pfb>
+Output written on ESC-CNN.pdf (6 pages, 539359 bytes).
+PDF statistics:
+ 324 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+

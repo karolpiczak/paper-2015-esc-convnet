@@ -1,0 +1,7 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: ESC-CNN.aux
+The style file: IEEEbib.bst
+Database file #1: ESC-CNN.bib
+Name 2 in "Bengio, Y. and Goodfellow, I. J., and Courville, A." has a comma at the end for entry bengio2015deeplearning
+while executing---line 1012 of file IEEEbib.bst
+Warning--empty publisher in bengio2015deeplearning
+(There was 1 error message)
