@@ -15,7 +15,6 @@ Citing:
 > K. J. Piczak. **Environmental Sound Classification with Convolutional Neural Networks**. In *Proceedings of the IEEE International Workshop on Machine Learning for Signal Processing (MLSP)*, in press, IEEE, 2015.
 
 **Supplementary materials:**
-* *Paper source code/notebook shall be available in the upcoming days.*
 * Poster slides:
 ![Environmental Sound Classification with Convolutional Neural Networks - poster, page 1](https://github.com/karoldvl/paper-2015-esc-convnet/raw/master/Poster/MLSP2015-poster-page-1.gif)
 ![Environmental Sound Classification with Convolutional Neural Networks - poster, page 2](https://github.com/karoldvl/paper-2015-esc-convnet/raw/master/Poster/MLSP2015-poster-page-2.gif)
