@@ -1,101 +1,101 @@
 dataset,fold,method,accuracy
-ESC-10,1,Baseline,0.575
-ESC-10,2,Baseline,0.787
-ESC-10,3,Baseline,0.775
-ESC-10,4,Baseline,0.762
-ESC-10,5,Baseline,0.737
+ESC-10,1,Baseline,0.5750
+ESC-10,2,Baseline,0.7870
+ESC-10,3,Baseline,0.7750
+ESC-10,4,Baseline,0.7620
+ESC-10,5,Baseline,0.7370
 ESC-10,1,CNN - long/majority,0.7625
-ESC-10,2,CNN - long/majority,0.875
+ESC-10,2,CNN - long/majority,0.8750
 ESC-10,3,CNN - long/majority,0.7375
 ESC-10,4,CNN - long/majority,0.8375
-ESC-10,5,CNN - long/majority,0.775
-ESC-10,1,CNN - long/probability,0.75
-ESC-10,2,CNN - long/probability,0.875
-ESC-10,3,CNN - long/probability,0.75
+ESC-10,5,CNN - long/majority,0.7750
+ESC-10,1,CNN - long/probability,0.7500
+ESC-10,2,CNN - long/probability,0.8750
+ESC-10,3,CNN - long/probability,0.7500
 ESC-10,4,CNN - long/probability,0.8375
-ESC-10,5,CNN - long/probability,0.8
-ESC-10,1,CNN - short/majority,0.775
-ESC-10,2,CNN - short/majority,0.775
-ESC-10,3,CNN - short/majority,0.775
-ESC-10,4,CNN - short/majority,0.875
-ESC-10,5,CNN - short/majority,0.7
-ESC-10,1,CNN - short/probability,0.775
-ESC-10,2,CNN - short/probability,0.8
-ESC-10,3,CNN - short/probability,0.775
+ESC-10,5,CNN - long/probability,0.8000
+ESC-10,1,CNN - short/majority,0.7750
+ESC-10,2,CNN - short/majority,0.7750
+ESC-10,3,CNN - short/majority,0.7750
+ESC-10,4,CNN - short/majority,0.8750
+ESC-10,5,CNN - short/majority,0.7000
+ESC-10,1,CNN - short/probability,0.7750
+ESC-10,2,CNN - short/probability,0.8000
+ESC-10,3,CNN - short/probability,0.7750
 ESC-10,4,CNN - short/probability,0.8625
 ESC-10,5,CNN - short/probability,0.7125
-ESC-50,1,Baseline,0.412
-ESC-50,2,Baseline,0.48
-ESC-50,3,Baseline,0.437
-ESC-50,4,Baseline,0.457
-ESC-50,5,Baseline,0.43
+ESC-50,1,Baseline,0.4120
+ESC-50,2,Baseline,0.4800
+ESC-50,3,Baseline,0.4370
+ESC-50,4,Baseline,0.4570
+ESC-50,5,Baseline,0.4300
 ESC-50,1,CNN - long/majority,0.6225
-ESC-50,2,CNN - long/majority,0.56
-ESC-50,3,CNN - long/majority,0.615
+ESC-50,2,CNN - long/majority,0.5600
+ESC-50,3,CNN - long/majority,0.6150
 ESC-50,4,CNN - long/majority,0.6575
-ESC-50,5,CNN - long/majority,0.61
+ESC-50,5,CNN - long/majority,0.6100
 ESC-50,1,CNN - long/probability,0.6475
-ESC-50,2,CNN - long/probability,0.57
-ESC-50,3,CNN - long/probability,0.615
+ESC-50,2,CNN - long/probability,0.5700
+ESC-50,3,CNN - long/probability,0.6150
 ESC-50,4,CNN - long/probability,0.6825
 ESC-50,5,CNN - long/probability,0.6275
 ESC-50,1,CNN - short/majority,0.5975
-ESC-50,2,CNN - short/majority,0.57
+ESC-50,2,CNN - short/majority,0.5700
 ESC-50,3,CNN - short/majority,0.6175
-ESC-50,4,CNN - short/majority,0.685
+ESC-50,4,CNN - short/majority,0.6850
 ESC-50,5,CNN - short/majority,0.6075
 ESC-50,1,CNN - short/probability,0.6225
 ESC-50,2,CNN - short/probability,0.6075
 ESC-50,3,CNN - short/probability,0.6375
-ESC-50,4,CNN - short/probability,0.715
-ESC-50,5,CNN - short/probability,0.645
+ESC-50,4,CNN - short/probability,0.7150
+ESC-50,5,CNN - short/probability,0.6450
 UrbanSound8K,1,Baseline,0.6238
 UrbanSound8K,2,Baseline,0.6623
 UrbanSound8K,3,Baseline,0.6874
 UrbanSound8K,4,Baseline,0.7096
 UrbanSound8K,5,Baseline,0.7528
-UrbanSound8K,1,CNN - long/majority,0.720504009163803
-UrbanSound8K,2,CNN - long/majority,0.7353603603603603
-UrbanSound8K,3,CNN - long/majority,0.6151351351351352
-UrbanSound8K,4,CNN - long/majority,0.7202020202020202
-UrbanSound8K,5,CNN - long/majority,0.7435897435897436
-UrbanSound8K,6,CNN - long/majority,0.7120291616038882
-UrbanSound8K,7,CNN - long/majority,0.6837708830548926
-UrbanSound8K,8,CNN - long/majority,0.7146401985111662
-UrbanSound8K,9,CNN - long/majority,0.741421568627451
-UrbanSound8K,10,CNN - long/majority,0.7299880525686977
-UrbanSound8K,1,CNN - long/probability,0.7491408934707904
-UrbanSound8K,2,CNN - long/probability,0.7353603603603603
-UrbanSound8K,3,CNN - long/probability,0.6291891891891892
-UrbanSound8K,4,CNN - long/probability,0.7474747474747475
-UrbanSound8K,5,CNN - long/probability,0.7681623931623932
-UrbanSound8K,6,CNN - long/probability,0.7339003645200486
-UrbanSound8K,7,CNN - long/probability,0.7052505966587113
-UrbanSound8K,8,CNN - long/probability,0.7295285359801489
-UrbanSound8K,9,CNN - long/probability,0.7659313725490197
-UrbanSound8K,10,CNN - long/probability,0.7491039426523297
-UrbanSound8K,1,CNN - short/majority,0.7079037800687286
-UrbanSound8K,2,CNN - short/majority,0.6655405405405406
-UrbanSound8K,3,CNN - short/majority,0.614054054054054
-UrbanSound8K,4,CNN - short/majority,0.7363636363636363
-UrbanSound8K,5,CNN - short/majority,0.7425213675213675
-UrbanSound8K,6,CNN - short/majority,0.6962332928311057
-UrbanSound8K,7,CNN - short/majority,0.6789976133651552
-UrbanSound8K,8,CNN - short/majority,0.684863523573201
-UrbanSound8K,9,CNN - short/majority,0.7034313725490197
-UrbanSound8K,10,CNN - short/majority,0.7670250896057348
-UrbanSound8K,1,CNN - short/probability,0.7239404352806414
-UrbanSound8K,2,CNN - short/probability,0.7004504504504504
-UrbanSound8K,3,CNN - short/probability,0.6227027027027027
-UrbanSound8K,4,CNN - short/probability,0.7363636363636363
-UrbanSound8K,5,CNN - short/probability,0.7606837606837606
-UrbanSound8K,6,CNN - short/probability,0.7120291616038882
-UrbanSound8K,7,CNN - short/probability,0.7040572792362768
-UrbanSound8K,8,CNN - short/probability,0.7022332506203474
-UrbanSound8K,9,CNN - short/probability,0.7205882352941176
-UrbanSound8K,10,CNN - short/probability,0.7598566308243727
-UrbanSound8K,1,Unsupervised,0.647
+UrbanSound8K,1,CNN - long/majority,0.7205
+UrbanSound8K,2,CNN - long/majority,0.7354
+UrbanSound8K,3,CNN - long/majority,0.6151
+UrbanSound8K,4,CNN - long/majority,0.7202
+UrbanSound8K,5,CNN - long/majority,0.7436
+UrbanSound8K,6,CNN - long/majority,0.7120
+UrbanSound8K,7,CNN - long/majority,0.6838
+UrbanSound8K,8,CNN - long/majority,0.7146
+UrbanSound8K,9,CNN - long/majority,0.7414
+UrbanSound8K,10,CNN - long/majority,0.7300
+UrbanSound8K,1,CNN - long/probability,0.7491
+UrbanSound8K,2,CNN - long/probability,0.7354
+UrbanSound8K,3,CNN - long/probability,0.6292
+UrbanSound8K,4,CNN - long/probability,0.7475
+UrbanSound8K,5,CNN - long/probability,0.7682
+UrbanSound8K,6,CNN - long/probability,0.7339
+UrbanSound8K,7,CNN - long/probability,0.7053
+UrbanSound8K,8,CNN - long/probability,0.7295
+UrbanSound8K,9,CNN - long/probability,0.7659
+UrbanSound8K,10,CNN - long/probability,0.7491
+UrbanSound8K,1,CNN - short/majority,0.7079
+UrbanSound8K,2,CNN - short/majority,0.6655
+UrbanSound8K,3,CNN - short/majority,0.6141
+UrbanSound8K,4,CNN - short/majority,0.7364
+UrbanSound8K,5,CNN - short/majority,0.7425
+UrbanSound8K,6,CNN - short/majority,0.6962
+UrbanSound8K,7,CNN - short/majority,0.6790
+UrbanSound8K,8,CNN - short/majority,0.6849
+UrbanSound8K,9,CNN - short/majority,0.7034
+UrbanSound8K,10,CNN - short/majority,0.7670
+UrbanSound8K,1,CNN - short/probability,0.7239
+UrbanSound8K,2,CNN - short/probability,0.7005
+UrbanSound8K,3,CNN - short/probability,0.6227
+UrbanSound8K,4,CNN - short/probability,0.7364
+UrbanSound8K,5,CNN - short/probability,0.7607
+UrbanSound8K,6,CNN - short/probability,0.7120
+UrbanSound8K,7,CNN - short/probability,0.7041
+UrbanSound8K,8,CNN - short/probability,0.7022
+UrbanSound8K,9,CNN - short/probability,0.7206
+UrbanSound8K,10,CNN - short/probability,0.7599
+UrbanSound8K,1,Unsupervised,0.6470
 UrbanSound8K,2,Unsupervised,0.7046
 UrbanSound8K,3,Unsupervised,0.7555
 UrbanSound8K,4,Unsupervised,0.7724
-UrbanSound8K,5,Unsupervised,0.804
+UrbanSound8K,5,Unsupervised,0.8040
